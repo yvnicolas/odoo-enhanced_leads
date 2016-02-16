@@ -1,0 +1,17 @@
+<openerp>
+    <data>
+         <record model="crm.lead" id="lead_yves_1">
+            <field name="name"> Lead normal cree depuis template.xml </field>
+            <field name="contact_name"> Yves Nicolas </field>
+            <field name="partner_name"> Dynamease </field>
+        </record>
+
+        <record model="crm.lead" id="lead_yves_2">
+            <field name="name"> Lead Enhanced cree depuis template.xml </field>
+            <field name="contact_name"> Pauline Joly </field>
+            <field name="partner_name"> Ares </field>
+            <field name="last_Contact"> Une action </field>
+        </record>
+
+    </data>
+</openerp>
